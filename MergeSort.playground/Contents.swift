@@ -1,5 +1,3 @@
-import UIKit
-
 func mergeSort(array: [Int]) -> [Int] {
     if (array.count == 1) {
         return array
